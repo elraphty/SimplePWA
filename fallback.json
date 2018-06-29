@@ -1,0 +1,10 @@
+{
+    "articles":[
+        {
+        "title":"Dog Fails",
+        "url":"",
+        "urlToImage":"./images/fallback.jpg",
+        "decription":"Try to load the page when you are online"
+        }
+    ]
+}
