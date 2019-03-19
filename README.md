@@ -18,5 +18,5 @@
  Then on your network an run the app, to confirm toggle the offline button and reload, it will work when you are offline also off your data connection to verify
 
 
-# Any errors letme know
+# Any errors let me know
 
